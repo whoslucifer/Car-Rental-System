@@ -22,6 +22,9 @@
 
       java Main
 
+https://github.com/user-attachments/assets/3c5c8cbe-ecae-4dc8-9039-84c3cb798c4c 
+
+
 - ### 2. On an IDE
 
 - Open the folder where this repo was cloned with your IDE of choice
