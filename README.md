@@ -8,7 +8,7 @@
   
       git clone https://github.com/fwmedusa/Car-Rental-System.git
 
-- Navigate into the directory you just cloned
+- Navigate into the directory you just cloned then into the src directory
 
 - Run this code to compile all the java classes at once
 
